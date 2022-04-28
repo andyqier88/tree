@@ -5,3 +5,4 @@
 
 ## ToDo
 - [ ] Plan to draw a peach in the summer months of June-August
+- [ ] Different scenes throughout the year
