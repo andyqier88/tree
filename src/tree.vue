@@ -63,5 +63,5 @@ onMounted(() => {
 </script>
 
 <template>
-  <canvas ref="el" width="2000" height="1000" scale-50 origin-top-left />
+  <canvas ref="el" width="1000" height="800" scale-50 origin-top-left />
 </template>>
