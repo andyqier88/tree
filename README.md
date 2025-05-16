@@ -9,7 +9,7 @@ pnpm install
 pnpm run dev
 ```
 ## Draw an animation peach tree by canvas
-- Draw a peach tree base on @antfu's [plum-demo](https://github.com/antfu/plum-demo)
+- Draw a peach tree based on @antfu's [plum-demo](https://github.com/antfu/plum-demo)
 
 ## ToDo
 - [x] Draw a peach tree
